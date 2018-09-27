@@ -6,3 +6,6 @@ Each directory contains the context file for that version. We will attempt to fo
 
 # format
 Expect `json` to always be up to date, but we will target `JSON-LD` and `XML` formats ASAP.
+
+# latest
+[context.json](/docs/1.0/context.json)

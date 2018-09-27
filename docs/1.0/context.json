@@ -1,0 +1,15 @@
+{
+    "@context": {
+        "@version": "1.0",
+        "nv": "http://nv.rerum.io/1.0/context.json",
+        "schema": "http://schema.org",
+        "oa": "http://www.w3.org/ns/oa#",
+
+        "Entity": {
+            "@id": "http://schema.org#Thing",
+            "@type": "@id"
+        },
+        "evidence": {},
+        
+    }
+}
